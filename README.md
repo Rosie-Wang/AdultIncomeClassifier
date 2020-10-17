@@ -16,12 +16,19 @@ Problem to Solve: The raw dataset can be accessed through the adult.csv file. Ba
 Visualize the Data: matplotlib and various print outs was used to visualize the results. 
 
 Choose your own Parameters: 
+
 Activation Functions: ReLU, Sigmoid, tanh 
+
 Number of Epochs 
+
 Learning Rate 
+
 Random Seed 
+
 Hidden Layer Size (default set to 64 in model.py) 
+
 Batch size 
+
 N (number of batches to run through before printing loss/accuracy)
 
 ----- Results -----
