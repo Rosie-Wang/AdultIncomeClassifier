@@ -17,19 +17,19 @@ Visualize the Data: matplotlib and various print outs was used to visualize the 
 
 Choose your own Parameters: 
 
-Activation Functions: ReLU, Sigmoid, tanh 
+- Activation Functions: ReLU, Sigmoid, tanh 
 
-Number of Epochs 
+- Number of Epochs 
 
-Learning Rate 
+- Learning Rate 
 
-Random Seed 
+- Random Seed 
 
-Hidden Layer Size (default set to 64 in model.py) 
+- Hidden Layer Size (default set to 64 in model.py) 
 
-Batch size 
+- Batch size 
 
-N (number of batches to run through before printing loss/accuracy)
+- N (number of batches to run through before printing loss/accuracy)
 
 ----- Results -----
 
