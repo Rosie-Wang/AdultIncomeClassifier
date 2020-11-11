@@ -1,4 +1,4 @@
-# Multilayer-Perceptron-for-Adult-Income-Classification
+# Adult Income Classifer with MLPs
 
 
 There are multiple files in this repository:
